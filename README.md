@@ -14,15 +14,5 @@
 </tr>
 </table>
 
-## 🚀 Featured Projects
-
-| **Project** | **Description** | **Tech** | **Link** | **Live Demo** |
-|-------|------------|------|------|------|
-| Job Market Pulse | Interactive data analysis dashboard with an automated pipeline | Python, Pandas, Streamlit, Selenium, BeautifulSoup | 🔗[Repo](https://github.com/tanprabhu/job-market-pulse )| [Live](https://job-market-pulse.streamlit.app/) |
-| E-commerce app | Full-stack CRUD application | React, MERN, JWT | 🔗[Repo](https://github.com/tanprabhu/ecommerce-mern) | - |
-
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
