@@ -3,7 +3,7 @@
 <tr>
 <td width="70%">
 
-🎓 Student at **DJSCE** pursuing a **B.Tech in CSE(Data Science)** <br>🌱  **Data Analytics** | **Web Development** | **AI**  <br>📚 Curious learner who enjoys discovering new technologies  <br>
+🎓 Student at **DJSCE** pursuing a **B.Tech in CSE(Data Science)** <br>🌱  **Data Analytics** | **Web Development** | **AI**  <br>📚 Curious learner <br>
 
 </td>
 <td width="25%" align="center">
